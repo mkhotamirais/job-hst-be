@@ -26,6 +26,14 @@ Install the required packages using npm:
   npm install
   ```
 
+4. **Add the .env file**
+Add the following configuration setting:
+
+  ```
+  PORT=5000
+  MONGOURI=mongodb://localhost:27017/task-db?retryWrites=true&w=majority
+    ```
+
 ## Running the development server   
 To start the development server, run the following command:
 
