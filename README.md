@@ -27,7 +27,7 @@ Install the required packages using npm:
   ```
 
 4. **Add the .env file**
-Add the following configuration setting:
+Create .env file at the root of the project. Add the following configuration setting:
 
   ```
   PORT=5000
