@@ -1,5 +1,5 @@
 # How to run this project
-This project was created to fulfill the as signment from Company Summit HABIB for smart technology. 
+This project was created to fulfill the assignment from Company HABIB for smart technology as Web Developer. 
 
 ## Prerequisite
 Make sure you have the following installed on your machine:
