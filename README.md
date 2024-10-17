@@ -1,4 +1,5 @@
 # How to run this project
+This project was created to fulfill the as signment from Company Summit HABIB for smart technology. 
 
 ## Prerequisite
 Make sure you have the following installed on your machine:
